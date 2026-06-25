@@ -1,0 +1,17 @@
+{
+  "PROMPT_INPUT": [
+    "textarea",
+    "div[contenteditable='true']",
+    "[data-testid='chat-input']"
+  ],
+  "GENERATE_BUTTON": [
+    "button[type='submit']",
+    "button[aria-label*='Send']",
+    "button[aria-label*='Generate']",
+    "button[aria-label*='Submit']"
+  ],
+  "UPLOAD_INPUT": [
+    "input[type='file']",
+    "input[accept*='image']"
+  ]
+}
